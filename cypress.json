@@ -1,0 +1,7 @@
+{
+    "testFiles": "**/*.feature",
+    "watchForFileChanges":false,
+    "videoCompression": false,
+    "hideXHR": true,
+    "retries": 1
+}
